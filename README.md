@@ -4,6 +4,7 @@ This Vue 3 application provides a client-side search functionality that allows u
 .Install Node.js.
 .Install VueCLI.
 .cd search-box (To navigate to the Project Directory).
+.npm install (To Install the dependencies to the local node_modules folder)
 .yarn serve (To start development server).
 
 Note: If you have any questions or need assistance with this project, feel free to contact me at abbasskhalil1997k@gmail.com.
